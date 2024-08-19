@@ -139,13 +139,13 @@ public class App
         long IntegerMinimum = Long.MAX_VALUE;
         long IntegerMaximum = Long.MIN_VALUE;
         long IntegerSum =  0;
-        double IntegerAverage =  0;
+        double IntegerAverage;
 
         int FloatQuantity =  0;
         float FloatMinimum =  0;
         float FloatMaximum =  0;
         double FloatSum =  0;
-        double FloatAverage =  0;
+        double FloatAverage;
 
         int StringQuantity =  0;
         int StringMinimumLength = Integer.MAX_VALUE;
